@@ -62,3 +62,23 @@ body {
     padding: 10px;
     text-align: center;
 }
+
+.btn btn-primary {
+    color: black;
+}
+
+footer {
+    background-color: purple;
+    color: turquoise;
+    text-align: center;
+    padding: 10px;
+    margin-top: 500px;
+}
+
+.social-links {
+    color: turquoise;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px;
+
+}
